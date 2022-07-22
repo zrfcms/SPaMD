@@ -1,4 +1,7 @@
 # SPaMD
+
+![logo4](https://user-images.githubusercontent.com/83065456/180380303-b4c5a121-9582-446e-b943-99f8b6da4648.gif)
+
 Scalable Parallel Molecular Dynamics Studio
 
 Updated in Ver.1.3: Add several high-throughput implementations for Simulation module, e.g. AELAS, ADAIS, ASURF, AEDOS, ABAND; Add the analyses modules for VASP results, e.g. VASPDV for density of state (DOS) and band structure, VASPVV for charge density difference and electron localization function; fix the bugs for modelling, Simulation and visulization modules. 

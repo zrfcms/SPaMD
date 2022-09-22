@@ -4,7 +4,7 @@
 
 Scalable Parallel Molecular Dynamics Studio
 
-Updated in Ver.1.3: Add several high-throughput implementations for Simulation module, e.g. AELAS, ADAIS, ASURF, AEDOS, ABAND; Add the analyses modules for VASP results, e.g. VASPDV for density of state (DOS) and band structure, VASPVV for charge density difference and electron localization function; fix the bugs for modelling, Simulation and visulization modules. 
+Updated in Ver.1.3: Add several high-throughput implementations for Simulation module, e.g. AELAS, ADAIS, ASURF, AEDOS, ABAND, APHON; Add the analysis modules for VASP results, e.g. VASPDV for density of state (DOS) and band structure, VASPVV for charge density difference (CDD) and electron localization function (ELF); fix the bugs for modelling, Simulation and visualization modules. 
 
 Updated in Ver.1.2: Add Surfkit for Modelling module; Add support for GUI to VASP for automatically including more functionals by other developer or users; fix the bugs for Simulation and visualization module. 
 

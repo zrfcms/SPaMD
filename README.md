@@ -4,6 +4,19 @@
 
 Scalable Parallel Molecular Dynamics Studio
 
+Updated in Ver.1.4: 
+Simulation:
+Add several high-throughput implementations for Simulation module, e.g. ABADE, ACOHP.
+Analysis:
+Add new module for VASP data analyzer: fat band structure, 3D band structure and fermi surface.
+Add new module for VASP volumetric data analyzer: Wave function in real space.
+Visualization:
+Add new module for atomic visualization mode: polyhedral, plane, vector.
+Overhaul bond definition, enable complex cutoff between atoms.
+Overhaul colorbar selection, enable custom definition of colorbar.
+Add new module for Brillouin zone visualization, K-path definition, and fermi surface visualization.
+Add new module: colorfill surface for 3D data visualization.
+
 Updated in Ver.1.3: Add several high-throughput implementations for Simulation module, e.g. AELAS, ADAIS, ASURF, AEDOS, ABAND, APHON; Add the analysis modules for VASP results, e.g. VASPDV for density of state (DOS) and band structure, VASPVV for charge density difference (CDD) and electron localization function (ELF); fix the bugs for modelling, Simulation and visualization modules. 
 
 Updated in Ver.1.2: Add Surfkit for Modelling module; Add support for GUI to VASP for automatically including more functionals by other developer or users; fix the bugs for Simulation and visualization module. 

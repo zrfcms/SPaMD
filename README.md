@@ -41,4 +41,4 @@ Pasted below is Baidu share link to download SPaMD Studio:
 https://pan.baidu.com/s/1O5OKTI-h_pLGxo8n35I-cQ access code：0ejx
 
 Some tutorials can refer to WeChat official account: SPaMD Studio, or Alternatively, scan the following QR code to get access:
-https://github.com/zrfcms/SPaMD/blob/main/wechat.jpg
+![wechat](https://github.com/zrfcms/SPaMD/assets/83065456/32ee3de3-6eec-4b5e-b39d-a35dcce45143)

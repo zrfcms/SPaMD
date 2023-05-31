@@ -36,3 +36,8 @@ SPaMD Studio includes the following features:
 
 Online registration form can be found via Google sites:
 https://sites.google.com/site/zrfbuaa/softwares/registration-form
+
+Pasted below is the Baidu share link to download SPaMD Studio:
+Link：https://pan.baidu.com/s/1O5OKTI-h_pLGxo8n35I-cQ access code：0ejx
+
+Some tutorials can refer to WeChat official account: SPaMD Studio, or Alternatively, scan the following QR code to get access:

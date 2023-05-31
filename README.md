@@ -2,7 +2,7 @@
 
 ![logo4](https://user-images.githubusercontent.com/83065456/180380303-b4c5a121-9582-446e-b943-99f8b6da4648.gif)
 
-Scalable Parallel Materials Design Studio or Scalable Parallel Molecular Dynamics Studio 
+Scalable Parallel Molecular Design/Dynamics Studio 
 
 Updated in Ver.1.4: 
 Simulation:

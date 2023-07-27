@@ -2,7 +2,7 @@
 
 ![logo4](https://user-images.githubusercontent.com/83065456/180380303-b4c5a121-9582-446e-b943-99f8b6da4648.gif)
 
-Scalable Parallel Molecular Design/Dynamics Studio 
+Scalable Parallel Materials/Molecular Design/Dynamics Studio 
 
 Updated in Ver.1.5: 
 Simulation: Overhaul simulation UI for VASP. Add several implementations for VASP/Basiseries module, e.g. Structure Optimization, Single Point, Molecular Dynamics, Basic Band Structure, Fat Band Structure, 3d Band Structure, Density of States, Fermi Surface, Valence Charge Density, Partial Charge Density, Electron Local Function, Local Potential, Wave Function in real space. Add port to select default server for simulation module. Add auto download routine and preview routine for simulation result. 

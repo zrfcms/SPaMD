@@ -4,6 +4,10 @@
 
 Scalable Parallel Molecular Design/Dynamics Studio 
 
+Updated in Ver.1.5: 
+Simulation: Overhaul simulation UI for VASP. Add several implementations for VASP/Basiseries module, e.g. Structure Optimization, Single Point, Molecular Dynamics, Basic Band Structure, Fat Band Structure, 3d Band Structure, Density of States, Fermi Surface, Valence Charge Density, Partial Charge Density, Electron Local Function, Local Potential, Wave Function in real space. Add port to select default server for simulation module. Add auto download routine and preview routine for simulation result. 
+Analysis: Add the on-site visualization for AADIS module: DVA, STA, SVA, IDA, NYE and NTA. Improve analysis speed and memory usage for wave function in real space module in VASPA. Add new tools for visualization: Plot Curves of Line+Symbol, Scatter+Colormap, Bubble+Colormap, Vector+Colormap. Enable adding lines to plot curves from data file in CSV format.
+
 Updated in Ver.1.4: 
 Simulation:
 Add several high-throughput implementations for Simulation module, e.g. ABADE, ACOHP.
